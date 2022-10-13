@@ -7,3 +7,5 @@ don't forget to ⭐ if you like it !Thanks.
 
 ## SCREENSHOTS :
 <img src="screenshots/1.png"/>
+
+### NOTE : add and use your own token
