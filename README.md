@@ -1,4 +1,4 @@
-# BMI CALCULATOR
+# CLIMA WEATHER 
 
 made with 🧡 an application for showing the weather of you city and displaying 
 an advice depends on the the result and also you can search for the weather state on any city you want 
